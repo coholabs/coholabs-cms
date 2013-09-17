@@ -11,8 +11,8 @@ coholabs-cms
 <br />We look forward to hearing from you.
 <br />Email us at <a href="mailto:hello@coholabs.com">hello@coholabs.com</a></p>
 
-<p><b>Documentation</b>
-<br />_________________________________</p>
+Documentation
+============
 
 <p><b>Technical Requirements</b>
 <br />Coho Labs CMS is built using Python and requires Google App Engine to run.</p>
