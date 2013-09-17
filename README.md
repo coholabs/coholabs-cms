@@ -12,12 +12,12 @@ coholabs-cms
 <br />Coho Labs CMS is built using Python and requires Google App Engine to run.</p>
 
 <br />
-<p><b>Documentation</b></p>
+<p><font size="24px"><b>Documentation</b></font></p>
 <br />
 <p><b>Page Types</b><ul>
-    <li><a href="http://www.coholabs.com/cms/docs/publish">Publish</a></li>
-    <li><a href="http://www.coholabs.com/cms/docs/manage">Manage</a></li>
-    <li><a href="http://www.coholabs.com/cms/docs/edit">Edit</a></li>
-    <li><a href="http://www.coholabs.com/cms/docs/item">Item</a></li>
-    <li><a href="http://www.coholabs.com/cms/docs/items">Items</a></li>
+    <li><a href="http://www.coholabs.com/cms/docs/publish" target="_blank">Publish</a></li>
+    <li><a href="http://www.coholabs.com/cms/docs/manage" target="_blank">Manage</a></li>
+    <li><a href="http://www.coholabs.com/cms/docs/edit" target="_blank">Edit</a></li>
+    <li><a href="http://www.coholabs.com/cms/docs/item" target="_blank">Item</a></li>
+    <li><a href="http://www.coholabs.com/cms/docs/items" target="_blank">Items</a></li>
 </ul></p>
