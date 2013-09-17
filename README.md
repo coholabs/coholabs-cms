@@ -24,14 +24,14 @@ Documentation
     <li><a href="http://www.coholabs.com/cms/docs/items" target="_blank">Items</a></li>
 </ul></p>
 <p><b>Database Item Actions</b><ul>
-    <li id="docsNav-add"><a href="http://www.coholabs.com/cms/docs/add" target="_blank">Add</a></li>
-    <li id="docsNav-delete"><a href="http://www.coholabs.com/cms/docs/delete" target="_blank">Delete</a></li>
-    <li id="docsNav-update"><a href="http://www.coholabs.com/cms/docs/update" target="_blank">Update</a></li>
-    <li id="docsNav-hide"><a href="http://www.coholabs.com/cms/docs/hide" target="_blank">Hide</a></li>
-    <li id="docsNav-show"><a href="http://www.coholabs.com/cms/docs/show" target="_blank">Show</a></li>
-    <li id="docsNav-flag"><a href="http://www.coholabs.com/cms/docs/flag" target="_blank">Flag</a></li>
-    <li id="docsNav-unflag"><a href="http://www.coholabs.com/cms/docs/unflag" target="_blank">UnFlag</a></li>
-    <li id="docsNav-internal"><a href="http://www.coholabs.com/cms/docs/internal" target="_blank">Internal</a></li>
-    <li id="docsNav-external"><a href="http://www.coholabs.com/cms/docs/external" target="_blank">External</a></li>
+    <li id="docsNav-add"><a href="http://www.coholabs.com/cms/docs/add" target="_blank">Add</a> - Creates a new item in the database</li>
+    <li id="docsNav-delete"><a href="http://www.coholabs.com/cms/docs/delete" target="_blank">Delete</a> - Removes an item from the database</li>
+    <li id="docsNav-update"><a href="http://www.coholabs.com/cms/docs/update" target="_blank">Update</a> - Replaces an existing item with new data</li>
+    <li id="docsNav-hide"><a href="http://www.coholabs.com/cms/docs/hide" target="_blank">Hide</a> - Sets the visibility off</li>
+    <li id="docsNav-show"><a href="http://www.coholabs.com/cms/docs/show" target="_blank">Show</a> - Sets the visibility on</li>
+    <li id="docsNav-flag"><a href="http://www.coholabs.com/cms/docs/flag" target="_blank">Flag</a> - Sets an item apart from the crowd</li>
+    <li id="docsNav-unflag"><a href="http://www.coholabs.com/cms/docs/unflag" target="_blank">UnFlag</a> - Sets an item as ordinary</li>
+    <li id="docsNav-internal"><a href="http://www.coholabs.com/cms/docs/internal" target="_blank">Internal</a> - Displays an item to a select group</li>
+    <li id="docsNav-external"><a href="http://www.coholabs.com/cms/docs/external" target="_blank">External</a> - Displays an item publicly</li>
   </ul>
  </p>
