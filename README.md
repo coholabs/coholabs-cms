@@ -11,8 +11,8 @@ coholabs-cms
 <p><b>Technical Requirements</b>
 <br />Coho Labs CMS is built using Python and requires Google App Engine to run.</p>
 
-<br />
-<p><font size="24px"><b>Documentation</b></font></p>
+<p><b>Documentation</b>
+<br />_________________________________</p>
 <br />
 <p><b>Page Types</b><ul>
     <li><a href="http://www.coholabs.com/cms/docs/publish" target="_blank">Publish</a></li>
