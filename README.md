@@ -7,8 +7,7 @@ coholabs-cms
 <p>A custom built system inspired by our clients desire to take control of their online communications.
 <br />Your business requires smart and responsive communication strategies. Coho Labs believes in helping you build the tools that will let you manage your web content in the areas that need constant and timely editing.</p>
 
-<p>Ask us about Coho Labs CMS and find out how we can put you in control of your web communication strategies.
-<br />We look forward to hearing from you.
+<p>Ask us about Coho Labs CMS and find out how we can put you in control of your web communication strategies. We look forward to hearing from you.
 <br />Email us at <a href="mailto:hello@coholabs.com">hello@coholabs.com</a></p>
 
 <p><b>Technical Requirements</b>
