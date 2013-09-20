@@ -2,7 +2,7 @@ Coho Labs CMS
 ============
 <p>A Python based Content Managment System for Google App Engine</p>
 <p>Demo - <a href="http://coholabs-cms.appspot.com" target="_blank">http://coholabs-cms.appspot.com</a>
-  <br />Docs - <a href="http://www.coholabs.com/cms/docs" target="_blank">http://www.coholabs.com/cms</a></p>
+  <br />Docs - <a href="http://www.coholabs.com/cms/docs" target="_blank">http://www.coholabs.com/cms/docs</a></p>
 <p>A custom built system inspired by our clients desire to take control of their online communications.
 <br />Your business requires smart and responsive communication strategies. Coho Labs believes in helping you build the tools that will let you manage your web content in the areas that need constant and timely editing.</p>
 
